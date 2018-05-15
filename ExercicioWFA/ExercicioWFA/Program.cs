@@ -16,7 +16,7 @@ namespace ExercicioWFA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Exercicio03());
+            Application.Run(new Principal());
         }
     }
 }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ExercicioWFA
 {
-    public partial class Exercício02 : Form
+    public partial class Exercicio02 : Form
     {
-        public Exercício02()
+        public Exercicio02()
         {
             InitializeComponent();
         }

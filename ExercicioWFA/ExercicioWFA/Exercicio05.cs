@@ -24,8 +24,9 @@ namespace ExercicioWFA
             double valorDaParcela = Convert.ToDouble(mtbValorParcela.Text);
             int quantidadeParcelas = Convert.ToInt32(txtQuantidadeMeses);
             double valorTotalFinancimaneto = valorDaParcela * quantidadeParcelas;
-            double diferençaValores = 
+        {
 
+            }
         }
     }
 }

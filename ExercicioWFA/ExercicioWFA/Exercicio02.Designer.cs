@@ -1,6 +1,6 @@
 ﻿namespace ExercicioWFA
 {
-    partial class Exercício02
+    partial class Exercicio02
     {
         /// <summary>
         /// Required designer variable.
