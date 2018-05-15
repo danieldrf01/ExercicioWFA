@@ -53,5 +53,11 @@ namespace ExercicioWFA
             exercicio07.Show();
         }
 
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Exercicio08 exercicio08 = new Exercicio08();
+            exercicio08.Show();
+        }
+
     }
 }
