@@ -125,6 +125,7 @@
             this.txtNota3.Name = "txtNota3";
             this.txtNota3.Size = new System.Drawing.Size(64, 20);
             this.txtNota3.TabIndex = 3;
+            this.txtNota3.Text = "gsgsd";
             // 
             // txtNota4
             // 
