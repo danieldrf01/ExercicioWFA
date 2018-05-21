@@ -29,8 +29,8 @@ namespace ExercicioWFA
 
         private void btn1_Click(object sender, EventArgs e)
         {
-            int numero1 = Convert.ToInt32(txtNumero1.Text);
-            int numero2 = Convert.ToInt32(txtNumero2.Text);
+            int numero1 = 0;
+            int numero2 = 0;
 
             try
             {
