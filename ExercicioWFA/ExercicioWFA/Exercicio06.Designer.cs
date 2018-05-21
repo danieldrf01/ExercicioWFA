@@ -99,7 +99,7 @@
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.AntiqueWhite;
             this.label5.Font = new System.Drawing.Font("Segoe WP", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(385, 256);
+            this.label5.Location = new System.Drawing.Point(381, 256);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(100, 25);
             this.label5.TabIndex = 5;
@@ -125,7 +125,6 @@
             this.txtNota3.Name = "txtNota3";
             this.txtNota3.Size = new System.Drawing.Size(64, 20);
             this.txtNota3.TabIndex = 3;
-            this.txtNota3.Text = "gsgsd";
             // 
             // txtNota4
             // 
